@@ -9,7 +9,7 @@ Para fazer o escaneamento é necessário executar no console do brownser o coman
 - TamperMonkey Chrome - https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 - TamperMonkey Edge - https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
 
-filter possui alguns parametros para facilitar as buscas e ordenação das ofertas
+O filtro possui alguns parametros para facilitar as buscas e ordenação das ofertas
 
 Obs: as vezes pode demorar um pouco o processamento das ofertas devido a lag no mercado, evitem momentos de pico, como ele processa todo o mercado é bem comum.
 Qualquer dúvida só me procurar no discord :D, fiquem a vontade para mudar o script caso queiram fazer melhorias ou ajustes.
@@ -17,24 +17,24 @@ Qualquer dúvida só me procurar no discord :D, fiquem a vontade para mudar o sc
 <p><h3>Exemplos</h3></p>
 
 <p>Exemplo 1: filtrar as 30 top ofertas com o menor ROI (Returno do investimento)</p>
-<p>filter(30, null, null, null, null, null, null, window.orderEnum.ROI)</p>
+filter(30, null, null, null, null, null, null, window.orderEnum.ROI)
 
 <p>Exemplo 2: filtrar as 50 top ofertas com o maior ganho de gold até 3000 dolares</p>
-<p>filter(50, null, 3000, null, null, null, null, window.orderEnum.Gold)</p>
+filter(50, null, 3000, null, null, null, null, window.orderEnum.Gold)
 
 <p>Exemplo 3: filtrar as 20 top ofertas com o menor ROI dos bonecos Warrior</p>
-<p>filter(20, null, null, window.classEnum.Warrior, null, null, null, window.orderEnum.ROI)</p>
+filter(20, null, null, window.classEnum.Warrior, null, null, null, window.orderEnum.ROI)
 
 <p>Exemplo 4: filtrar as 40 top ofertas com até 35 dias de ROI dos bonecos Katrina ordenado por menor custo</p>
-<p>filter(40, null, null, window.classEnum.Katrina, null, 35, null, window.orderEnum.Cost)</p>
+filter(40, null, null, window.classEnum.Katrina, null, 35, null, window.orderEnum.Cost)
 
 <p>Exemplo 5: filtrar as 10 top ofertas até 4 BNB que farmam no ScrollScribe que geram no minimo 10000 gold por dias e ordenado por Gold</p>
-<p>filter(10, 4, null, null, window.goldJobEnum.ScrollScribe, null, 1000, window.orderEnum.Gold)</p>
+filter(10, 4, null, null, window.goldJobEnum.ScrollScribe, null, 1000, window.orderEnum.Gold)
 
 <p><h3>Enumerators Disponíveis</h3></p>
-- window.classEnum... -> usado no parametro carrer da função filter
-- window.orderEnum... -> usado no parametro order ...
-- window.goldJobEnum... -> usado no parametro job ...
+window.classEnum... -> usado no parametro carrer da função filter<br/>
+window.orderEnum... -> usado no parametro order ...<br/>
+window.goldJobEnum... -> usado no parametro job ...<br/>
 
 
 <p><h3>window.classEnum</h3></p>
@@ -59,7 +59,7 @@ window.goldJobEnum.ScrollScribe<br/>
 window.goldJobEnum.Hunting<br/>
 window.goldJobEnum.LegendaryField<br/>
 
-<p><h3>Tambem é possivel fazer filtragens mais avançadas (antes de executar o filtro pela primeira vez)</h3></p>
+<p><h4>Tambem é possivel fazer filtragens mais avançadas (antes de executar o filtro pela primeira vez)</h4></p>
 
 window.agile = -1;<br/>
 window.strength = -1;<br/>
