@@ -37,7 +37,7 @@ Enumerators Disponíveis
 - window.goldJobEnum... -> usado no parametro job ...
 
 
-<p>### window.classEnum</p>
+<p><h3>window.classEnum</h3></p>
 window.classEnum.All<br/>
 window.classEnum.Katrina<br/>
 window.classEnum.Mage<br/>
@@ -46,12 +46,12 @@ window.classEnum.Thief<br/>
 window.classEnum.Warrior<br/>
 
 
-<p>### window.orderEnum</p>
+<p><h3>window.orderEnum</h3></p>
 window.orderEnum.Gold<br/>
 window.orderEnum.ROI<br/>
 window.orderEnum.Cost<br/>
 
-<p>### window.goldJobEnum</p>
+<p><h3>>window.goldJobEnum</h3></p>
 window.goldJobEnum.PartTime<br/>
 window.goldJobEnum.Winemaker<br/>
 window.goldJobEnum.Lumberjack<br/>
