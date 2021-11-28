@@ -16,20 +16,20 @@ Qualquer dúvida só me procurar no discord :D, fiquem a vontade para mudar o sc
 
 segue alguns exemplos:
 
-Exemplo 1: filtrar as 30 top ofertas com o menor ROI (Returno do investimento)
-filter(30, null, null, null, null, null, null, window.orderEnum.ROI)
+<p>Exemplo 1: filtrar as 30 top ofertas com o menor ROI (Returno do investimento)</p>
+<p>filter(30, null, null, null, null, null, null, window.orderEnum.ROI)</p>
 
-Exemplo 2: filtrar as 50 top ofertas com o maior ganho de gold até 3000 dolares
-filter(50, null, 3000, null, null, null, null, window.orderEnum.Gold)
+<p>Exemplo 2: filtrar as 50 top ofertas com o maior ganho de gold até 3000 dolares</p>
+<p>filter(50, null, 3000, null, null, null, null, window.orderEnum.Gold)</p>
 
-Exemplo 3: filtrar as 20 top ofertas com o menor ROI dos bonecos Warrior
-filter(20, null, null, window.classEnum.Warrior, null, null, null, window.orderEnum.ROI)
+<p>Exemplo 3: filtrar as 20 top ofertas com o menor ROI dos bonecos Warrior</p>
+<p>filter(20, null, null, window.classEnum.Warrior, null, null, null, window.orderEnum.ROI)</p>
 
-Exemplo 4: filtrar as 40 top ofertas com até 35 dias de ROI dos bonecos Katrina ordenado por menor custo
-filter(40, null, null, window.classEnum.Katrina, null, 35, null, window.orderEnum.Cost)
+<p>Exemplo 4: filtrar as 40 top ofertas com até 35 dias de ROI dos bonecos Katrina ordenado por menor custo</p>
+<p>filter(40, null, null, window.classEnum.Katrina, null, 35, null, window.orderEnum.Cost)</p>
 
-Exemplo 5: filtrar as 10 top ofertas até 4 BNB que farmam no ScrollScribe que geram no minimo 10000 gold por dias e ordenado por Gold
-filter(10, 4, null, null, window.goldJobEnum.ScrollScribe, null, 1000, window.orderEnum.Gold)
+<p>Exemplo 5: filtrar as 10 top ofertas até 4 BNB que farmam no ScrollScribe que geram no minimo 10000 gold por dias e ordenado por Gold</p>
+<p>filter(10, 4, null, null, window.goldJobEnum.ScrollScribe, null, 1000, window.orderEnum.Gold)</p>
 
 Enumerators Disponíveis
 - window.classEnum... -> usado no parametro carrer da função filter
