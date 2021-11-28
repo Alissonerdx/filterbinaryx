@@ -32,12 +32,12 @@ window.goldJobEnum... -> usado no parametro job ...
 
 
 -- window.classEnum --
-window.classEnum.All
-window.classEnum.Katrina
-window.classEnum.Mage
-window.classEnum.Ranger
-window.classEnum.Thief
-window.classEnum.Warrior
+- window.classEnum.All
+- window.classEnum.Katrina
+- window.classEnum.Mage
+- window.classEnum.Ranger
+- window.classEnum.Thief
+- window.classEnum.Warrior
 
 
 -- window.orderEnum --
