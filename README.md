@@ -14,7 +14,7 @@ filter possui alguns parametros para facilitar as buscas e ordenação das ofert
 Obs: as vezes pode demorar um pouco o processamento das ofertas devido a lag no mercado, evitem momentos de pico, como ele processa todo o mercado é bem comum.
 Qualquer dúvida só me procurar no discord :D, fiquem a vontade para mudar o script caso queiram fazer melhorias ou ajustes.
 
-segue alguns exemplos:
+<p><h3>Exemplos</h3></p>
 
 <p>Exemplo 1: filtrar as 30 top ofertas com o menor ROI (Returno do investimento)</p>
 <p>filter(30, null, null, null, null, null, null, window.orderEnum.ROI)</p>
@@ -31,7 +31,7 @@ segue alguns exemplos:
 <p>Exemplo 5: filtrar as 10 top ofertas até 4 BNB que farmam no ScrollScribe que geram no minimo 10000 gold por dias e ordenado por Gold</p>
 <p>filter(10, 4, null, null, window.goldJobEnum.ScrollScribe, null, 1000, window.orderEnum.Gold)</p>
 
-Enumerators Disponíveis
+<p><h3>Enumerators Disponíveis</h3></p>
 - window.classEnum... -> usado no parametro carrer da função filter
 - window.orderEnum... -> usado no parametro order ...
 - window.goldJobEnum... -> usado no parametro job ...
@@ -51,7 +51,7 @@ window.orderEnum.Gold<br/>
 window.orderEnum.ROI<br/>
 window.orderEnum.Cost<br/>
 
-<p><h3>>window.goldJobEnum</h3></p>
+<p><h3>window.goldJobEnum</h3></p>
 window.goldJobEnum.PartTime<br/>
 window.goldJobEnum.Winemaker<br/>
 window.goldJobEnum.Lumberjack<br/>
@@ -59,7 +59,7 @@ window.goldJobEnum.ScrollScribe<br/>
 window.goldJobEnum.Hunting<br/>
 window.goldJobEnum.LegendaryField<br/>
 
-- Tambem é possivel fazer filtragens mais avançadas (antes de executar o filtro pela primeira vez)
+<p><h3>Tambem é possivel fazer filtragens mais avançadas (antes de executar o filtro pela primeira vez)</h3></p>
 
 window.agile = -1;<br/>
 window.strength = -1;<br/>
@@ -78,6 +78,6 @@ window.direction = 'desc';<br/>
 window.career = ''; <br/>
 
 
-- Exemplo do Filtro funcionando
+<p><h3>Exemplo do Filtro funcionando</h3></p>
 ![image](https://user-images.githubusercontent.com/3093089/143764424-03a4ec4d-59de-462d-b3f6-612433be706f.png)
 
