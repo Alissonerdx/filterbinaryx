@@ -26,9 +26,9 @@ Exemplo 5: filtrar as 10 top ofertas até 4 BNB que farmam no ScrollScribe que g
 filter(10, 4, null, null, window.goldJobEnum.ScrollScribe, null, 1000, window.orderEnum.Gold)
 
 Enumerators Disponíveis
-window.classEnum... -> usado no parametro carrer da função filter
-window.orderEnum... -> usado no parametro order ...
-window.goldJobEnum... -> usado no parametro job ...
+- window.classEnum... -> usado no parametro carrer da função filter
+- window.orderEnum... -> usado no parametro order ...
+- window.goldJobEnum... -> usado no parametro job ...
 
 
 -- window.classEnum --
@@ -41,14 +41,14 @@ window.goldJobEnum... -> usado no parametro job ...
 
 
 -- window.orderEnum --
-window.orderEnum.Gold
-window.orderEnum.ROI
-window.orderEnum.Cost
+- window.orderEnum.Gold
+- window.orderEnum.ROI
+- window.orderEnum.Cost
 
 -- window.goldJobEnum --
-window.goldJobEnum.PartTime
-window.goldJobEnum.Winemaker
-window.goldJobEnum.Lumberjack
-window.goldJobEnum.ScrollScribe
-window.goldJobEnum.Hunting
-window.goldJobEnum.LegendaryField
+- window.goldJobEnum.PartTime
+- window.goldJobEnum.Winemaker
+- window.goldJobEnum.Lumberjack
+- window.goldJobEnum.ScrollScribe
+- window.goldJobEnum.Hunting
+- window.goldJobEnum.LegendaryField
