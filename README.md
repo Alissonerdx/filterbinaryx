@@ -4,7 +4,7 @@
 
 Script que facilita a busca pela oferta ideal dentro do mercado do binaryx
 
-Para fazer o escaneamento é necessário executar no console do brownser o comando filter assim que o tamper monkey injetar o script na pagina
+Para fazer o escaneamento é necessário executar no console do brownser o comando filter assim que o tamper monkey injetar o script na pagina do mercado do jogo (https://market.binaryx.pro)
 
 - TamperMonkey Chrome - https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 - TamperMonkey Edge - https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
