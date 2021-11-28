@@ -59,6 +59,25 @@ Enumerators Disponíveis
 - window.goldJobEnum.Hunting
 - window.goldJobEnum.LegendaryField
 
+- Tambem é possivel fazer filtragens mais avançadas (antes de executar o filtro pela primeira vez)
+
+window.agile = -1;<br/>
+window.strength = -1;<br/>
+window.constitution = -1;<br/>
+window.willpower = -1;<br/>
+window.intelligence = -1;<br/>
+window.spirit = -1;<br/>
+window.rarity = window.rarityEnum.All;<br/>
+<br/>
+window.page = 1;<br/>
+window.pageSize = 99;<br/>
+window.status = 'selling';<br/>
+window.name = '';<br/>
+window.sort = 'time';<br/>
+window.direction = 'desc';<br/>
+window.career = ''; <br/>
+
+
 - Exemplo do Filtro funcionando
 ![image](https://user-images.githubusercontent.com/3093089/143764424-03a4ec4d-59de-462d-b3f6-612433be706f.png)
 
