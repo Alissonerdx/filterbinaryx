@@ -16,7 +16,7 @@ Qualquer dúvida só me procurar no discord, fiquem a vontade para mudar o scrip
 
 <p><h3>Exemplos</h3></p>
 
-<p>Exemplo 1: filtrar as 30 top ofertas com o menor ROI (Returno do investimento)</p>
+<p>Exemplo 1: filtrar as 30 top ofertas com o menor ROI (retorno do investimento)</p>
 filter(30, null, null, null, null, null, null, window.orderEnum.ROI)
 
 <p>Exemplo 2: filtrar as 50 top ofertas com o maior ganho de gold até 3000 dolares</p>
