@@ -11,8 +11,8 @@ Para fazer o escaneamento é necessário executar no console do brownser o coman
 
 O filtro possui alguns parametros para facilitar as buscas e ordenação das ofertas
 
-Obs: as vezes pode demorar um pouco o processamento das ofertas devido a lag no mercado, evitem momentos de pico, como ele processa todo o mercado é bem comum.
-Qualquer dúvida só me procurar no discord :D, fiquem a vontade para mudar o script caso queiram fazer melhorias ou ajustes.
+Obs: as vezes pode demorar um pouco o processamento das ofertas devido a lag no mercado, evitem momentos de pico.
+Qualquer dúvida só me procurar no discord, fiquem a vontade para mudar o script caso queiram fazer melhorias ou ajustes.
 
 <p><h3>Exemplos</h3></p>
 
