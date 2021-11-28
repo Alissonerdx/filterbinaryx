@@ -52,3 +52,7 @@ Enumerators Disponíveis
 - window.goldJobEnum.ScrollScribe
 - window.goldJobEnum.Hunting
 - window.goldJobEnum.LegendaryField
+
+- Exemplo do Filtro funcionando
+![image](https://user-images.githubusercontent.com/3093089/143764424-03a4ec4d-59de-462d-b3f6-612433be706f.png)
+
