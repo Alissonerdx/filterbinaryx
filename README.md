@@ -37,27 +37,27 @@ Enumerators Disponíveis
 - window.goldJobEnum... -> usado no parametro job ...
 
 
--- window.classEnum --
-- window.classEnum.All
-- window.classEnum.Katrina
-- window.classEnum.Mage
-- window.classEnum.Ranger
-- window.classEnum.Thief
-- window.classEnum.Warrior
+- window.classEnum --
+window.classEnum.All<br/>
+window.classEnum.Katrina<br/>
+window.classEnum.Mage<br/>
+window.classEnum.Ranger<br/>
+window.classEnum.Thief<br/>
+window.classEnum.Warrior<br/>
 
 
--- window.orderEnum --
-- window.orderEnum.Gold
-- window.orderEnum.ROI
-- window.orderEnum.Cost
+- window.orderEnum
+window.orderEnum.Gold<br/>
+window.orderEnum.ROI<br/>
+window.orderEnum.Cost<br/>
 
--- window.goldJobEnum --
-- window.goldJobEnum.PartTime
-- window.goldJobEnum.Winemaker
-- window.goldJobEnum.Lumberjack
-- window.goldJobEnum.ScrollScribe
-- window.goldJobEnum.Hunting
-- window.goldJobEnum.LegendaryField
+- window.goldJobEnum --
+window.goldJobEnum.PartTime<br/>
+window.goldJobEnum.Winemaker<br/>
+window.goldJobEnum.Lumberjack<br/>
+window.goldJobEnum.ScrollScribe<br/>
+window.goldJobEnum.Hunting<br/>
+window.goldJobEnum.LegendaryField<br/>
 
 - Tambem é possivel fazer filtragens mais avançadas (antes de executar o filtro pela primeira vez)
 
