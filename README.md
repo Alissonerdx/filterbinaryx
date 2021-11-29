@@ -9,7 +9,9 @@ Para fazer o escaneamento é necessário executar no console do brownser o coman
 - TamperMonkey Chrome: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 - TamperMonkey Edge: https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
 
-<p>Para usar o script é simples só instalar a extensão do tamper monkey e importar ou copiar e colar o script, o tamper monkey ele injeta o script na pagina no momento que ela carrega (F5) disponibilizando o comando filter no console (F12).</p>
+<p>Para usar o script é simples só instalar a extensão do tamper monkey e importar ou copiar e colar o script (FilterBinaryx.js), o tamper monkey vai injetar o script na pagina no momento que ela carrega (F5) disponibilizando o comando filter no console (F12).</p>
+
+Obs.: Caso não queira instalar o tamper monkey é só copiar todo conteudo do script e colar no console (F12) e dar enter e depois usar o filter com as ordenações que preferir, detalhe, toda vez que abrir o mercado vai ter que colar novamente.
 
 O filtro possui alguns parametros para facilitar as buscas e ordenação das ofertas
 
