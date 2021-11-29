@@ -28,7 +28,7 @@ filter(20, null, null, window.classEnum.Warrior, null, null, null, window.orderE
 <p>Exemplo 4: filtrar as 40 top ofertas com até 35 dias de ROI dos bonecos Katrina ordenado por menor custo</br>
 filter(40, null, null, window.classEnum.Katrina, null, 35, null, window.orderEnum.Cost)</p>
 
-<p>Exemplo 5: filtrar as 10 top ofertas até 4 BNB que farmam no ScrollScribe que geram no minimo 10000 gold por dias e ordenado por Gold</br>
+<p>Exemplo 5: filtrar as 10 top ofertas até 4 BNB que farmam no ScrollScribe que geram no minimo 1000 gold por dias e ordenado por Gold</br>
 filter(10, 4, null, null, window.goldJobEnum.ScrollScribe, null, 1000, window.orderEnum.Gold)</p>
 
 <p><h3>Enumerators Disponíveis</h3></p>
