@@ -9,6 +9,8 @@ Para fazer o escaneamento é necessário executar no console do brownser o coman
 - TamperMonkey Chrome: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 - TamperMonkey Edge: https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
 
+<p>Para usar o script é simples só instalar a extensão do tamper monkey e importar ou copiar e colar o script, o tamper monkey ele injeta o script na pagina no momento que ela carrega (F5) disponibilizando o comando filter no console (F12).</p>
+
 O filtro possui alguns parametros para facilitar as buscas e ordenação das ofertas
 
 Obs: as vezes pode demorar um pouco o processamento das ofertas devido a lag no mercado, evitem momentos de pico.
