@@ -1,5 +1,7 @@
 # filterbinaryx
 
+Video Explicativo: https://www.youtube.com/watch?v=XFIrUzy-BPA
+
 ![image](https://user-images.githubusercontent.com/3093089/143764424-03a4ec4d-59de-462d-b3f6-612433be706f.png)
 
 Script que facilita a busca pela oferta ideal dentro do mercado do binaryx
