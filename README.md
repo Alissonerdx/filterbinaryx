@@ -1,6 +1,6 @@
 # filterbinaryx
 
-
+![image](https://user-images.githubusercontent.com/3093089/143764424-03a4ec4d-59de-462d-b3f6-612433be706f.png)
 
 Script que facilita a busca pela oferta ideal dentro do mercado do binaryx
 
@@ -76,7 +76,3 @@ window.name = '';<br/>
 window.sort = 'time';<br/>
 window.direction = 'desc';<br/>
 window.career = ''; <br/>
-
-<p><h3>Exemplo do Filtro funcionando</h3></p>
-![image](https://user-images.githubusercontent.com/3093089/143764424-03a4ec4d-59de-462d-b3f6-612433be706f.png)
-
